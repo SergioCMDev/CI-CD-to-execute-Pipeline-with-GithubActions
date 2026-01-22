@@ -1,4 +1,4 @@
-from .Operations import add, product, division, subs
+from Operations import add, product, division, subs
 
 def test_add():
     assert add(1, 2) == 3, "Should be 3"
