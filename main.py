@@ -4,6 +4,8 @@ print(add(1,1))
 
 print(add(2,1))
 
+print(add(3,1))
+
 print(product(2,3))
 
 print(division(2,3))
