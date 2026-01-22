@@ -16,4 +16,4 @@ print(division(3,0))
 
 print(subs(2,3))
 
-print(subs(6,3))
+print(subs(4,3))
